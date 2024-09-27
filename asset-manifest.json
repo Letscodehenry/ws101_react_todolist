@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ws101_react_todolist/static/css/main.2e9d4aab.css",
+    "main.js": "/ws101_react_todolist/static/js/main.6b890040.js",
+    "static/js/453.a50becb7.chunk.js": "/ws101_react_todolist/static/js/453.a50becb7.chunk.js",
+    "static/media/mountain3.jpg": "/ws101_react_todolist/static/media/mountain3.d0bdb68fec40782cdc36.jpg",
+    "index.html": "/ws101_react_todolist/index.html",
+    "main.2e9d4aab.css.map": "/ws101_react_todolist/static/css/main.2e9d4aab.css.map",
+    "main.6b890040.js.map": "/ws101_react_todolist/static/js/main.6b890040.js.map",
+    "453.a50becb7.chunk.js.map": "/ws101_react_todolist/static/js/453.a50becb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e9d4aab.css",
+    "static/js/main.6b890040.js"
+  ]
+}
