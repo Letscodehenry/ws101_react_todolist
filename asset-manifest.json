@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/ws101_react_todolist/static/css/main.d60905f8.css",
-    "main.js": "/ws101_react_todolist/static/js/main.6b890040.js",
+    "main.css": "/ws101_react_todolist/static/css/main.9dc0b741.css",
+    "main.js": "/ws101_react_todolist/static/js/main.8b793611.js",
     "static/js/453.a50becb7.chunk.js": "/ws101_react_todolist/static/js/453.a50becb7.chunk.js",
-    "static/media/mountain3.jpg": "/ws101_react_todolist/static/media/mountain3.d0bdb68fec40782cdc36.jpg",
+    "static/media/mountain1.jpg": "/ws101_react_todolist/static/media/mountain1.d0bdb68fec40782cdc36.jpg",
+    "static/media/mountain3.jpg": "/ws101_react_todolist/static/media/mountain3.23161eed6f8aa852c021.jpg",
+    "static/media/mountain4.jpg": "/ws101_react_todolist/static/media/mountain4.ca8d554738f388bdca5f.jpg",
+    "static/media/mountain2.jpg": "/ws101_react_todolist/static/media/mountain2.97e1f6ec31dbf6c7f75a.jpg",
     "index.html": "/ws101_react_todolist/index.html",
-    "main.d60905f8.css.map": "/ws101_react_todolist/static/css/main.d60905f8.css.map",
-    "main.6b890040.js.map": "/ws101_react_todolist/static/js/main.6b890040.js.map",
+    "main.9dc0b741.css.map": "/ws101_react_todolist/static/css/main.9dc0b741.css.map",
+    "main.8b793611.js.map": "/ws101_react_todolist/static/js/main.8b793611.js.map",
     "453.a50becb7.chunk.js.map": "/ws101_react_todolist/static/js/453.a50becb7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d60905f8.css",
-    "static/js/main.6b890040.js"
+    "static/css/main.9dc0b741.css",
+    "static/js/main.8b793611.js"
   ]
 }
